@@ -10,4 +10,4 @@ _Repository Name Say's True._
 * **Discord: MrX#3051**
 * **Telegram: @CleinKelvinn**
 
-[img]https://avatars.githubusercontent.com/u/77683874?v=4
+[image](https://avatars.githubusercontent.com/u/77683874?v=4)
