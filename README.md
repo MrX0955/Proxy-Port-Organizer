@@ -10,4 +10,8 @@ _Repository Name Say's True._
 * **Discord: MrX#3051**
 * **Telegram: @CleinKelvinn**
 
-![image](https://avatars.githubusercontent.com/u/77683874?v=4)
+<samp>
+  <p align="center">
+    <img src="https://avatars.githubusercontent.com/u/77683874?v=4" title="𓆩♡𓆪">
+  </p>
+</samp>
