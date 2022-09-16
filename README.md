@@ -9,3 +9,5 @@ _Repository Name Say's True._
 # Developer
 * **Discord: MrX#3051**
 * **Telegram: @CleinKelvinn**
+
+[img]https://avatars.githubusercontent.com/u/77683874?v=4
