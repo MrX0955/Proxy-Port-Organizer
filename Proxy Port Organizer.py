@@ -14,7 +14,6 @@ print("""\n                                        ░░░░░░░░░�
 os.system("pip install pystyle")
 os.system("pip install colorama")
 os.system("pip install pywin32-ctypes")
-os.system("start https://discord.gg/7d2mE3j8WK")
 if sys.platform == "win32": os.system("cls")
 elif sys.platform == "linux": os.system("clear")
 from pystyle    import Colors, Colorate
@@ -22,7 +21,7 @@ from colorama   import Fore
 import ctypes
 
 class Raymond:
-    ctypes.windll.kernel32.SetConsoleTitleW("Raymond & MrX | Proxy Port Range Organizer | Developer: MrX#3051 |")
+    ctypes.windll.kernel32.SetConsoleTitleW("MrX | Proxy Port Range Organizer | Developer: $class~#6280 |")
     print(Colorate.Horizontal(Colors.purple_to_red,"""
                                         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                         ░░░░░░░░░░▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄░░░░░░░░░
